@@ -18,7 +18,7 @@
   	<dependency>
   		<groupId>com.mapbox.mapboxsdk</groupId>
   		<artifactId>mapbox-sdk-geojson</artifactId>
-  		<version>4.9.0</version>
+  		<version>4.13.1</version>
   	</dependency>
     <dependency>
       <groupId>junit</groupId>
